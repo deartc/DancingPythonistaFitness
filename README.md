@@ -6,7 +6,7 @@ I was shocked at the lack of information for people who have lingering symptoms 
 I  wanted to use my coding project to inspire myself and others trying to get back to peak health after covid. 
 I chose dancing because it has the necessary emotional comnponent (I'm  certified in the Lablast ballroom fitness program) 
 that is helpful from those trying to deal with decreased health and the underreported random waves of
-negative symptoms after covid. 
+negative symptoms after Covid. 
 Dancing also has different styles with differnt bpm (beats per minute) and my code can also educate people on styles and the slower 
 bpm they can utilize so they can safely exercise.   
 
