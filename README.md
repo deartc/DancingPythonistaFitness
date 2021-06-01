@@ -35,7 +35,7 @@ The computer (the instructor) also chose a style.  The player (dancer) gets to c
 
 6.  I also built a conversion tool that satifies the sixth requirement. 
 It converts the user input of one type calories to another type (lbs) and displays it.  
-I used tkinter to generate the user's conversion form.  Note: I i dont' have this on the repository yet.   
+I used tkinter to generate the user's conversion form.  Note: I  dont' have this on the repository yet.   
 
 
 Correct use of Git/Github and commits:  I followed the correct steps in the project guidelines to create and name the github repository that would reflect a distinct repository.  I then used the proper guidelines to initilize the project and add files using git bash and the command line.  I then far exceeded the minimum number of commits needed to pass.    
@@ -43,8 +43,8 @@ Correct use of Git/Github and commits:  I followed the correct steps in the proj
 Note to Mentors:
 
 I am actively trying to get a video of the project as suggested by the mentors. I started my project early, completed the Treehouse curriculum early and
-completed Standford University CodeinPlace curriculum (there is no certificate involed just training) to aid in getting project done early because
-I know I might not have time later due to Agile/Scrum CSM training and  Agile MBA training.  THe agile training might involve training of children in python so I 
+completed Standford University CodeinPlace python curriculum (there is no certificate involved just training) to aid in getting project done early because
+I know I might not have time later due to Agile/Scrum CSM training and Agile MBA training.  THe agile training might involve training of children in python so I 
 wanted to do a project involved in coding and movement.  I wanted some of the coding to be simpler.  I would love to learn more about webscraping and flask but not sure I
 can complete much more on project since I will possibly be seeking a new job in June.  
 
