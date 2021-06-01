@@ -42,9 +42,7 @@ Correct use of Git/Github and commits:  I followed the correct steps in the proj
 
 Note to Mentors:
 
-I am actively trying to get a video of the project as suggested by the mentors. I started my project early, completed the Treehouse curriculum early and
-completed Standford University CodeinPlace python curriculum (there is no certificate involved just training) to aid in getting project done early because
-I know I might not have time later due to Agile/Scrum CSM training and Agile MBA training.  THe agile training might involve training of children in python so I 
+I  tested the code on Pycharm and it all worked but I didn't clone it.   I am actively trying to get a video of the project as suggested by the mentors. I started my project early, completed the Treehouse curriculum early andcompleted Standford University CodeinPlace python curriculum (there is no certificate involved just training) to aid in getting project done early becauseI know I might not have time later due to Agile/Scrum CSM training and Agile MBA training.  THe agile training might involve training of children in python so I 
 wanted to do a project involved in coding and movement.  I wanted some of the coding to be simpler.  I would love to learn more about webscraping and flask but not sure I
 can complete much more on project since I will possibly be seeking a new job in June.  
 
