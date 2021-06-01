@@ -40,7 +40,13 @@ I used tkinter to generate the user's conversion form.  Note: I i dont' have thi
 
 Correct use of Git/Github and commits:  I followed the correct steps in the project guidelines to create and name the github repository that would reflect a distinct repository.  I then used the proper guidelines to initilize the project and add files using git bash and the command line.  I then far exceeded the minimum number of commits needed to pass.    
 
+Note to Mentors:
 
+I am actively trying to get a video of the project as suggested by the mentors. I started my project early, completed the Treehouse curriculum early and
+completed Standford University CodeinPlace curriculum (there is no certificate involed just training) to aid in getting project done early because
+I know I might not have time later due to Agile/Scrum CSM training and  Agile MBA training.  THe agile training might involve training of children in python so I 
+wanted to do a project involved in coding and movement.  I wanted some of the coding to be simpler.  I would love to learn more about webscraping and flask but not sure I
+can complete much more on project since I will possibly be seeking a new job in June.  
 
 Requriements not used:
 Create a class, then create at least one object of that class and populate it with data. The value of at least one object must be used somewhere in your code
