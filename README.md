@@ -1,6 +1,6 @@
 # DancingPythonistaFitness
 My python project involves developing a fitness regimen after having Covid. There are distinct different challenges (involving more patience and emotional support)
-after I recovered from covid and tried to get back to a regular exercise routine. 
+after I recovered from Covid and tried to get back to a regular exercise routine. 
 Although I am an environmental scientist, I am also a certified group fitness (AFAA certified) instructor 
 I was shocked at the lack of information for people who have lingering symptoms and wanted to get back in shape. 
 I  wanted to use my coding project to inspire myself and others trying to get back to peak health after covid. 
