@@ -1,5 +1,5 @@
 # DancingPythonistaFitness
-My python project involves developing a fitness regimen after having covid. There are distinct different challenges (involving more patience and emotional support)
+My python project involves developing a fitness regimen after having Covid. There are distinct different challenges (involving more patience and emotional support)
 after I recovered from covid and tried to get back to a regular exercise routine. 
 Although I am an environmental scientist, I am also a certified group fitness (AFAA certified) instructor 
 I was shocked at the lack of information for people who have lingering symptoms and wanted to get back in shape. 
