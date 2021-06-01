@@ -1,7 +1,7 @@
-# This is a sample Python script.
+# This is my python project to satisfy requirement for code Louisville
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# I am using my coding project to inspire others  to systematically return to exericise after recovering from Covid
+# I specifically chose dance because of the emotional component and chose only postive comments because recoving slower than normal has an emotional component
 
 import datetime
 
