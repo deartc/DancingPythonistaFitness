@@ -4,6 +4,7 @@
 
 
 I satisfied the following components:
+	
 	1.	I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used a week in the future as the end date because that is a conventional time for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter of burnt calories dancing.)
 	
 	2.	I also satisfied the requirement of creating and calling at least 3 functions or methods, at least one of which must return a value that is used somewhere else in the code. I determined how to calculate calories. I then calculated the calorie count for one week.
