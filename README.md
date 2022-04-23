@@ -1,6 +1,5 @@
-  My project was done in Pycharm.  My python project involves developing a fitness regimen after having Covid.  I realized that coding about an exercise program after Covid totally changed how I felt about the process because I finally was researching why there were valid reasons why my body had setbacks (underreported random waves of symptoms) instead of blaming myself.   Coding gave me a necessary space to figure out my own answers and possibly help others who are struggling but prefer not to to talk about it.       
- 
-. I chose dancing because it has the necessary emotional component (I'm certified in the Lablast ballroom fitness program) that is helpful from those trying to deal with decreased health especailly when experiencing underreported random waves of negative symptoms after Covid. Dancing also has different styles with different bpm (beats per minute) and my code can also educate people on styles and the slower bpm they can utilize so they can safely exercise.
+  My project was done in Pycharm.  My python project involves developing a fitness regimen after having Covid.  
+ Dancing was chosen because it has the necessary emotional component (I'm certified in the Lablast ballroom fitness program) that is helpful from those trying to deal with decreased health especailly when experiencing underreported random waves of negative symptoms after Covid. Dancing also has different styles with different bpm (beats per minute) and my code can also educate people on styles and the slower bpm they can utilize so they can safely exercise.
 
 
 My project included the following:
